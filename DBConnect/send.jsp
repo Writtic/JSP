@@ -28,8 +28,8 @@
 							<input type="submit" value="µî·Ï">
 						</th>
 					</tr>
-				</table>
-			</form>
+				</form>
+			</table>
 		</div>
 	</body>
 </html>
